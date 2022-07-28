@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658507210 source:d:\algoritimo\ex_bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658705892 source:f:\algoritimo\ex_bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
